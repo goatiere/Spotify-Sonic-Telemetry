@@ -1,0 +1,6 @@
+{
+  "name": "Spotify Sonic Telemetry",
+  "description": "An interactive data art dashboard analyzing Spotify's all-time greatest hits, top artists, and 2025 Wrapped stream counts using beautiful glow telemetry plotting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
